@@ -1,0 +1,21 @@
+{
+  "name": "notquiteanonymous-nord",
+  "displayName": "NotQuiteAnonymous-Nord",
+  "description": "my take on a Nord inspired theme mostly have #303030 as BG",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "NQA-nord",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NQA-nord-color-theme.json"
+      }
+    ]
+  }
+}
