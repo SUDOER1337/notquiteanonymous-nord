@@ -3,6 +3,7 @@
   "displayName": "NotQuiteAnonymous-Nord",
   "description": "my take on a Nord inspired theme mostly have #303030 as BG",
   "version": "0.0.1",
+  "publisher":"NotQuiteAnonymous",
   "engines": {
     "vscode": "^1.106.1"
   },
